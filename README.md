@@ -2,7 +2,7 @@
 
 About Me
 
-- 🔭 I’m currently working on Data Analytics skills
+- 🔭 I’m currently working at TCS as a Data Scientist
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Anything if I know about it I will surely help!
 - 🥅 2022 Goals: Gain better experince in my field of experties
